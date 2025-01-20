@@ -1,1 +1,3 @@
-= The MMBase Content Management System (~2000 - ...)
+= .github
+
+special repo
